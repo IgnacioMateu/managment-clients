@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+      "name": "MAMMITA",
+      "company": "Mateu",
+      "email": "mateunacho6@gmail.com",
+      "phone": "21331",
+      "notes": "Ignacio mateu",
+      "id": 1
+    },
+    {
+      "name": "Ignacio",
+      "company": "Mateu",
+      "email": "mateunacho6@gmail.com",
+      "phone": "21331",
+      "notes": "Ignacio mateu",
+      "id": 3
+    },
+    {
+      "name": "karen",
+      "company": "Karen",
+      "email": "mateunacho6@gmail.com",
+      "phone": "",
+      "notes": "",
+      "id": 4
+    },
+    {
+      "name": "Paulina",
+      "company": "Paulina",
+      "email": "mateunacho6@gmail.com",
+      "phone": "23123",
+      "notes": "dsadsad",
+      "id": 5
+    },
+    {
+      "name": "Ignacio",
+      "company": "mateu",
+      "email": "mateunacho6@gmail.com",
+      "phone": "231",
+      "notes": "sdqa",
+      "id": 6
+    },
+    {
+      "name": "Buenas",
+      "company": "tardes",
+      "email": "mateunacho6@gmail.com",
+      "phone": "232131",
+      "notes": "dasdsa",
+      "id": 7
+    }
+  ]
+}
